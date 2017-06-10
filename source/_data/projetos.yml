@@ -1,0 +1,16 @@
+responsive-embed:
+  url: http://github.com/joselitojunior1/responsive-embed/
+  name: responsive-embed
+  desc: Web-component que facilita a incorporação de mídia de maneira responsiva
+hackatometro:
+  url: https://github.com/joselitojunior1/hackatometro
+  name: hackatometro
+  desc: Dashboard para a exibição de um "termometro" com a % de finalização de projetos num Hackathon
+ypsum:
+  url: http://fb.com/joselitobot
+  name: ypsum
+  desc: Lorem Ipsum baseado em textos com a tag "Geração Y" no Medium
+slack-list-brazil:
+  url: https://github.com/joselitojunior1/slack-list-brazil
+  name: slack-list-brazil
+  desc: Curadoria de Slacks para você participar
