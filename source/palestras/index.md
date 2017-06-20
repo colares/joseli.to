@@ -11,8 +11,8 @@ Se você quiser que eu palestre num evento seu, será um prazer. Só entrar em c
 
 ## 2017
 | Palestra | Evento | Local e Data | Links |
-|:---------|:-------------|:------|:--|
-| Sobre aviões, performance, aplicativos e pessoas |  Encontro Locaweb | Recife - PE, 25 de Abril | Slides |
+|---------|-------------|------|--|
+| Sobre aviões, performance, aplic1ativos e pessoas |  Encontro Locaweb | Recife - PE, 25 de Abril | Slides |
 | Você não sabia que seu navegador era capaz de fazer isso |  Capivara Codes | Curitiba – PR, 1 de Abril | Slides |
 | AMP + Progressive Web Apps |  Meetup GDG-BH | Belo Horizonte – MG, 9 de Fevereiro | Slides, Gravação |
 | AMP + Progressive Web Apps |  Campus Party Brasil | São Paulo – SP, 4 de Fevereiro | Slides, Gravação |
@@ -20,7 +20,7 @@ Se você quiser que eu palestre num evento seu, será um prazer. Só entrar em c
 
 ## 2016
 | Palestra | Evento | Local e Data | Links |
-|:---------|:-------------|:------|:--|
+|---------|-------------|------|--|
 | Sobre aviões, performance, aplicativos e pessoas |  Encontro Locaweb | Recife, 25 de Abril | Slides |
 | Você não sabia que seu navegador era capaz de fazer isso |  Capivara Codes | Curitiba – PR, 1 de Abril | Slides |
 | AMP + Progressive Web Apps |  Meetup GDG-BH | Belo Horizonte – MG, 9 de Fevereiro | Slides, Gravação |

@@ -1,6 +1,6 @@
 title: Joselito
 subtitle: Desenvolvedor
-description: Aqui é o Joselito. Sou apaixonado pela web, community manager na Mangue Codes e instrutor de ionic e angular por aí pela Tampa Works. Palestro sobre tecnologias web e Gosto de F1, de aeroportos, de burritos e de piadas de baixa qualidade.
+description: Aqui é o Joselito. Sou apaixonado pela web, organizador do GDG Recife e instrutor pela Tampa Works. Palestro sobre tecnologias web e Gosto de F1, de aeroportos, de burritos e de piadas de baixa qualidade.
 author: Joselito Júnior
 language:
 - pt-br
@@ -25,7 +25,7 @@ new_post_name: :title.md # File name of new posts
 default_layout: post
 titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
-filename_case: 0
+filename_case: 1
 render_drafts: false
 post_asset_folder: false
 relative_link: false
@@ -53,7 +53,22 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: air-force-one
 
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:joselitojunior1/joselito.space.git
+  branch: gh-pages
+
+feed:
+  type: rss2
+  path: rss.xml
+  limit: 20
+  content: true
+
+html_minifier:
+  enable: true
+  ignore_error: false
+  exclude:
+
+fbia:
+  limit: 20
+  path: fbia.xml
