@@ -9,7 +9,9 @@ date: 2017-06-02 22:32:55
 
 Olá Internet! Meu nome é Joselito Júnior e tenho 23 anos. Sou front-ender desde que ganhou um CD com 2000 scripts em “Java scripts” e mexi com eles no FrontPage 2000. Pernambucano e Recifense, viajo pelo Brasil dando umas palestras e uns treinamentos por aí.
 
-Sempre que sobra um tempinho, eu crio alguns projetos open source e contribuo no que posso em alguns outros, como o Brave Browser e o Ionic. Uso JavaScript, Angular, Ionic, Preact, React (Native), Next.js, PHP, NodeJS e muitos outros pormenores. Gosto de falar sobre Progressive Web Apps, Accelerated Mobile Pages, Firebase, além de tudo que acabei de falar que uso. Já palestrei e organizei e contribuí em eventos como DevFest, Campus Party, Code in the Dark, JSDay e Front Ins.
+Sempre que sobra um tempinho, eu crio alguns projetos open source e contribuo no que posso em outros, como o Brave Browser e o Ionic. Uso JavaScript, Angular, Ionic, Preact, React (Native), Next.js, PHP, NodeJS e muitos outros pormenores. Gosto de falar sobre Progressive Web Apps, Accelerated Mobile Pages, Firebase, além de tudo que acabei de falar que uso. Já palestrei e organizei e contribuí em eventos como DevFest, Campus Party, Code in the Dark, JSDay e Front Ins.
+
+Certas vezes grava alguns vídeos para internet e coloca no seu canal do YouTube.
 
 Sou líder da Mangue Codes, hub que ajuda a organizar o GDG Recife e algumas outras comunidades Pernambuco.
 

@@ -1,6 +1,6 @@
 title: Joselito
 subtitle: Desenvolvedor
-description: Aqui é o Joselito. Sou apaixonado pela web, organizador do GDG Recife e instrutor pela Tampa Works. Palestro sobre tecnologias web e Gosto de F1, de aeroportos, de burritos e de piadas de baixa qualidade.
+description: Aqui é o Joselito. Sou apaixonado pela web, organizador do GDG Recife e instrutor pela Tampa Works. Palestro sobre tecnologias web e gosto de F1, de aeroportos, de burritos e de piadas de baixa qualidade.
 author: Joselito Júnior
 language:
 - pt-br
@@ -56,7 +56,7 @@ theme: air-force-one
 deploy:
   type: git
   repo: git@github.com:joselitojunior1/joselito.space.git
-  branch: gh-pages
+  branch: space
 
 feed:
   type: rss2
