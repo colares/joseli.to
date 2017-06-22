@@ -11,7 +11,7 @@ Se você quiser que eu palestre num evento seu, será um prazer. Só entrar em c
 
 ### Legenda dos Links
 <span role="img" aria-label="microphone">🎤</span> = Slides
-<span role="img" aria-label="tv">📺</span> = [<span role="img" aria-label="tv">📺</span>]()
+<span role="img" aria-label="tv">📺</span> = Gravação
 <span role="img" aria-label="arrow">🏹</span>  = Inscrição para o evento
 
 ## 2017
