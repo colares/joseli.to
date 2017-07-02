@@ -1,5 +1,5 @@
 @echo off
-@color 9f
+@color f9
 @echo [= JOSELITO.SPACE DEPLOYER 3000 =]
 @call git add .
 @call git commit -am "%~1"
