@@ -9,7 +9,8 @@
 @call xcopy "public" "gh-pages" /i/e/r/y
 @cd gh-pages
 @call git add .
-@call git commit -am "Update: %~1 %date% %time%"
+@call git commit -am "Update: %~1 (%date% %time%)"
 @call git push origin gh-pages
 @cd ..
+@COLOR
 @echo [= DONE =]

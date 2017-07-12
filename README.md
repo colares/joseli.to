@@ -1,4 +1,4 @@
-# joselito.space
+# joseli.to
 
 `
 npm install hexo -g
