@@ -18,7 +18,7 @@ Se você quiser que eu palestre num evento seu, será um prazer. Só entrar em c
 | Palestra | Evento | Local e Data | Links |
 |---------|-------------|------|--|
 | Progressive Web Apps |  Google Launchpad Build | Recife - PE, 12 de Agosto | [<span role="img" aria-label="arrow">🏹</span>](https://events.withgoogle.com/google-launchpad-build-recife-12-de-agosto/) |
-| Progressive Web Apps |  Google Launchpad Build | Porto Alegre – RS, 5 de Agosto | [<span role="img" aria-label="arrow">🏹</span>](https://events.withgoogle.com/google-launchpad-build-porto-alegre-05-de-agosto/) |
+| Progressive Web Apps |  Google Launchpad Build | Porto Alegre – RS, 5 de Agosto | [<span role="img" aria-label="microphone">🎤</span>](https://tampa.slides.com/joselitojunior1/pwa-launchpad/) |
 | Escolha: quer seu webapp bonito, com SEO bom ou rápido? Tenha os três usando AMP |  JSDay | Feira de Santana – BA, 16 de Julho | [<span role="img" aria-label="microphone">🎤</span>](https://tampa.slides.com/joselitojunior1/amp-17) |
 | Sobre aviões, performance, aplicativos e pessoas |  Front In Salvador | Salvador – BA, 27 de Maio | [<span role="img" aria-label="microphone">🎤</span>](https://tampa.slides.com/joselitojunior1/avioes-pessoas-apps) |
 | Sobre aviões, performance, aplicativos e pessoas |  Encontro Locaweb | Recife - PE, 25 de Abril | [<span role="img" aria-label="microphone">🎤</span>](https://tampa.slides.com/joselitojunior1/avioes-pessoas-apps) |

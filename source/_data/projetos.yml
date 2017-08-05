@@ -1,14 +1,18 @@
+joselabs:
+  url: https://codelabs.joseli.to
+  name: Codelabs
+  desc: Tutoriais passo a passo sobre tecnologias web
 responsive-embed:
   url: http://github.com/joselitojunior1/responsive-embed/
   name: responsive-embed
   desc: Web-component que facilita a incorporação de mídia de maneira responsiva
 hackatometro:
   url: https://github.com/joselitojunior1/hackatometro
-  name: hackatometro
+  name: Hackatometro
   desc: Dashboard para a exibição de um "termometro" com a % de finalização de projetos num Hackathon
 ypsum:
   url: http://fb.com/joselitobot
-  name: ypsum
+  name: Ypsum
   desc: Lorem Ipsum baseado em textos com a tag "Geração Y" no Medium
 slack-list-brazil:
   url: https://github.com/joselitojunior1/slack-list-brazil

@@ -1,7 +1,19 @@
+pwapress:
+  url: http://pwa.press
+  name: PWA Press
+  desc: Conheça meu novo Newsletter quinzenal sobre Progressive Web Apps!
+launchpad-rec:
+  url: https://events.withgoogle.com/google-launchpad-build-recife-12-de-agosto/
+  name: Google Launchpad Build Recife
+  desc: Vai ter talk minha no Launchpad Build Recife sobre Progressive Web Apps, inscreva-se grátis!
+blogue:
+  url: https://joseli.to
+  name: Updates no blog
+  desc: Dei uma tapa no visual com umas fontes mais bonitinhas, melhor responsividade e o melhor domínio possivel
 yt:
   url: http://youtube.com/c/joselitojunior
   name: JOSE2
-  desc: Inscreva-se no meu canal no YouTube
+  desc: Inscreva-se no meu canal no YouTube  
 bot:
   url: http://fb.com/joselitobot
   name: Josebot
